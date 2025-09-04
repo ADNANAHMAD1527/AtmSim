@@ -1,0 +1,1 @@
+This project is a simple ATM Simulator in Java that runs in the console. It allows users to perform basic banking operations like checking balance, depositing money, and withdrawing cash. The program ensures that withdrawals cannot exceed the available balance, making it both functional and realistic for practice.
